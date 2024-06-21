@@ -1,16 +1,16 @@
 <h1 align="center">Hola 👋, mi nombre es Danilo</h1>
-<h3 align="center">Soy Diseñador Gráfico</h3>
+<h3 align="center">Diseñador Gráfico Multidisciplinario</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danilojpalma&label=Profile%20views&color=0080c0&style=flat" alt="danilojpalma" /> </p>
 
-📍 Vivo en Chile, en la región de Valparaíso
-🔭 Actualmente trabajo como Diseñador Gráfico Freelance
-🌱 Actualmente estoy aprendiendo JavaScript y React
-💼 Puedes encontrar todos mis proyectos de programación en [https://github.com/danilojpalma](https://github.com/danilojpalma) o en mi sitio [https://danilojpalma.com](https://danilojpalma.com)
-💼 Mis proyectos de diseño puedes encontrarlos en [https://bit.ly/danilo-portafolio](https://bit.ly/danilo-portafolio) o en [https://behance.net/danilojpalma](https://behance.net/danilojpalma)
-🏢 Mi experiencia laboral abarca diferentes industrias, desde startups tecnologicas, agencias de publicidad y diseño
-📫 Puedes contactarme a mi correo: **danilojpalma@gmail.com** 
+- 📍 Vivo en Chile, en la región de Valparaíso
+- 🔭 Actualmente trabajo como Diseñador Gráfico Freelance
+- 🌱 Actualmente estoy aprendiendo JavaScript y React
+- 💼 Puedes encontrar todos mis proyectos de programación en [https://github.com/danilojpalma](https://github.com/danilojpalma) o en mi sitio [https://danilojpalma.com](https://danilojpalma.com)
+- 💼 Mis proyectos de diseño puedes encontrarlos en [https://bit.ly/danilo-portafolio](https://bit.ly/danilo-portafolio) o en [https://behance.net/danilojpalma](https://behance.net/danilojpalma)
+- 🏢 Mi experiencia laboral abarca diferentes industrias, desde startups tecnologicas, agencias de publicidad y diseño
+- 📫 Puedes contactarme a mi correo: **danilojpalma@gmail.com** 
 
 
 <h3 align="left">Connect with me:</h3>
